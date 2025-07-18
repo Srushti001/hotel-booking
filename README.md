@@ -1,1 +1,1 @@
-# hotel-booking
+This comprehensive Hotel Booking Analysis project, build using python in tool jupeter notebook-it offers actionable insights into the resion of cancellation rates for city and resort hotels, helping you solve real-world business problems
